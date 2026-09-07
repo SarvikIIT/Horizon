@@ -13,6 +13,11 @@ and `f(0) = 3` is Kierstead–Trotter ([references.md](references.md) §1).
 | Theorem 2: strong lookahead k buys nothing against stub-friendly constructions | Proved |
 | Corollary 3: `f_strong(k) = 3` for every constant k | **Conjecture** — needs the Kierstead–Trotter lower-bound construction to be stub-friendly, which I could not check (§5) |
 
+**Provenance.** The proofs below were worked out by hand. AI assistance was used
+afterwards for proofreading — checking the arguments for gaps, tightening the
+statements, and copy-editing. The mathematics, the choice of model, and the
+decision to state Corollary 3 as a conjecture rather than a theorem are mine.
+
 ---
 
 ## 1. The shape of the argument

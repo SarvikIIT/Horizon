@@ -25,6 +25,9 @@ weak model, nested inside the current interval in the strong one.
 A simulator that could have contradicted all three does not:
 [`docs/proof_k1.md`](docs/proof_k1.md) §6–7 has the measurements.
 
+The proofs were worked out by hand; AI assistance was used afterwards for
+proofreading and copy-editing ([provenance](docs/proof_k1.md)).
+
 ## Layout
 
 | | |
